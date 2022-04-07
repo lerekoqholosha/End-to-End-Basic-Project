@@ -5,7 +5,7 @@ Created on Thu Mar 24 09:46:13 2022
 """
 
 import streamlit as st
-import pickle
+import joblib
 import numpy as np
 
 def load_model():
