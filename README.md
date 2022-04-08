@@ -95,6 +95,21 @@ To deploy this project run
   streamlit run student.py
   
 ```
+Please follow this steps to run the app on your terminal
+
+create by `lerekoqholosha`
+
+`pip install -U streamlit numpy pandas scikit-learn`
+
+`git clone https://github.com/{your account name}/End-to-End Project.git`
+
+`cd End-to-End Project/ streamlit run student.py`
+
+You can now view your Streamlit app in your browser.
+
+Local URL: http://localhost:8501
+Network URL: http://192.168.43.41:8501
+
 ![name-of-you-image](https://github.com/lerekoqholosha/End-to-End-Basic-Project/blob/master/images/stfd.PNG?raw=true)
 
 
