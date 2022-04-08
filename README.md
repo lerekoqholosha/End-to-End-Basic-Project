@@ -26,9 +26,11 @@ The Dataset comprises of daily study hours of an student and the score the respe
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by the following people:
 
-- Sparks Foundation
+```
+
+````
 
 
 ## Running Tests
