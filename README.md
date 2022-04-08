@@ -97,7 +97,6 @@ To deploy this project run
 ```
 Please follow this steps to run the app on your terminal
 ```
-create by lerekoqholosha
 
 pip install -U streamlit numpy pandas scikit-learn
 
